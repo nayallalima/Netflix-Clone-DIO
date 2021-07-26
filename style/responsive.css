@@ -7,8 +7,11 @@
     main .botao{
         margin-top: 5px;
         width: 300px;
-        
     }
+    div .box-filme{
+       
+        height: 500px;
+    }    
 }
 
 @media screen and (min-width: 1000px){
