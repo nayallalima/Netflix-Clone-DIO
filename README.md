@@ -26,11 +26,11 @@ Recriado a interface do principal site de streaming mundial utilizando tecnologi
 
 - Clone o repositório para a sua máquina
 
-  git clone https://github.com/nayallalima/LetMeAsk-NLW6.git
+  git clone https://github.com/nayallalima/Netflix-Clone-DIO.git
 
 
 ## ♥️ Contribuidores 
-<p> Obrigada a todos que fazem parte da <a href="http://campinas.tech/campinas-tech-talents/">Rocketseat 🚀</a>, </p>
+<p> Obrigada a todos que fazem parte da <a href="https://digitalinnovation.one/">DIO. </a> </p>
 
 ## 🔒 Licença
 
