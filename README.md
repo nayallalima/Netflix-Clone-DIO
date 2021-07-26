@@ -8,7 +8,7 @@
   <a href="#-licença">Licença</a>
 </p>
 
-
+![](Nayflix.gif)
 
 ## 💻 Projeto
 
